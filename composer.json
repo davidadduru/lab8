@@ -1,0 +1,20 @@
+{
+    "name": "miss/factories",
+    "autoload": {
+        "psr-4": {
+            "Miss\\Factories\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "robymarManaloto",
+            "email": "manaloto.robymarlouise@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^3.7",
+        "fpdf/fpdf": "^1.86",
+        "klein/klein": "^2.1",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
